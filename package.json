@@ -1,0 +1,10 @@
+{
+  "name": "verifly-seo-pages",
+  "version": "1.0.0",
+  "description": "SEO comparison pages for Verifly.email",
+  "scripts": {
+    "generate": "node scripts/generate-pages.js",
+    "build": "npm run generate"
+  },
+  "license": "MIT"
+}
